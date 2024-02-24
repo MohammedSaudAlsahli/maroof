@@ -30,5 +30,5 @@ PARAMS: dict = {
     "sortBy": "2",
     "sortDirection": "2",
     "sorting": "",
-    "maxResultCount": "500",
+    "maxResultCount": "40",
 }
