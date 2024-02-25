@@ -32,3 +32,7 @@ PARAMS: dict = {
     "sorting": "",
     "maxResultCount": "40",
 }
+
+CATEGORY_ID: dict = {
+    "Other":45,"Cars":47,"RealEstate":48,"BeautyAndHealth":54,"Home":55,"BusinessServices":56, "Occasions":57, "FoodAndDrinks":58,"Gifts":59, "Education":60, "Electronics":61
+}
